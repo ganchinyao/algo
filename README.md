@@ -1,2 +1,2 @@
 # algo
-Some algorithms
+Just some algorithms I have written
